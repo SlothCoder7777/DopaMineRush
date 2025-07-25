@@ -1,7 +1,7 @@
 - 👋 Hi, I’m HIMANSHU JAIN 
-- 👀 I’m interested in gaming and Web/Front-End developing.
+- 👀 I’m interested in Full Stack Development and Python developing.
 - 🌱 I’m currently pursuing Artificial Intelligence and Data Science.
-- 💞️ I’m looking to collaborate on AI MODELS 
+- 💞️ I’m open to work.
 - 📫 Reach me via my LinkedIN
 
 <!---
